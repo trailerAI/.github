@@ -32,4 +32,4 @@
 ### Outside Collaborators
 
   * [`Byeongcheol Jo`](https://github.com/byeongcheoljo)
-  * [`Yeongjoon Park`](https://github.com/yeongjoon)
+  * [`Yeongjoon Park`](https://github.com/yeongjoon) 
