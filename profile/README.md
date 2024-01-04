@@ -7,7 +7,7 @@
     * Retrieval Model
       * `Tak-Sung Heo`, `Jisu Kim`, `Minsu Jeong`, `Juhwan Lee`
   <br></br>
-  * [KoTan](https://github.com/trailerAI/KoTAN) (2023.06. release)
+  * [KoTAN](https://github.com/trailerAI/KoTAN) (2023.06. release)
     * Korean<->English Translation and Augmentation Task
       * `Juhwan Lee`, `Jisu Kim`, `Tak-Sung Heo`, `Minsu Jeong`
   <br></br>
