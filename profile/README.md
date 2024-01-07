@@ -9,7 +9,7 @@
   <br></br>
   * [KoTAN](https://github.com/trailerAI/KoTAN) (2023.06. release)
     * Korean<->English Translation and Augmentation Task
-      * `Juhwan Lee`, `Jisu Kim`, `Tak-Sung Heo`, `Minsu Jeong`
+      * `Jisu Kim`, `Juhwan Lee`, `Tak-Sung Heo`, `Minsu Jeong`
   <br></br>
   * [Domain Robust Retraining of Pretrained Language Model](https://github.com/trailerAI/Domain-Robust-Retraining-of-Pretrained-Language-Model) (2023.05. release)
     * Korean Pretrained Language Model specialized for Conversation Data
