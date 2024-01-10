@@ -27,7 +27,7 @@
   * [`Tak-Sung Heo`](https://github.com/HeoTaksung)
   * [`Juhwan Lee`](https://github.com/juhwanlee-diquest)
   * [`Jisu Kim`](https://github.com/merry555)
-  * `Minsu Jeong`
+  * [`Minsu Jeong`](https://github.com/skaeads12)
 
 ### Outside Collaborators
 
