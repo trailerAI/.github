@@ -6,7 +6,7 @@
     * Retrieval Model
       * `Jisu Kim`, `Tak-Sung Heo`, `Minsu Jeong`, `Juhwan Lee`
   <br></br>
-  * [KoDPR](https://github.com/trailerAI/KoDPR) (~ing)
+  * [KoDPR](https://github.com/trailerAI/KoDPR) (2024.02. release)
     * Retrieval Model
       * `Tak-Sung Heo`, `Jisu Kim`, `Minsu Jeong`, `Juhwan Lee`
   <br></br>
