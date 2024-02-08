@@ -2,7 +2,7 @@
   * Large Language Model Data Ordering (~ing)
       * `Juhwan Lee`, `Jisu Kim`, `Tak-Sung Heo`, `Minsu Jeong`, 
       
-  * [SelectionModel](https://github.com/trailerAI/SelectionModel) (~ing)
+  * [SelectionModel](https://github.com/trailerAI/SelectionModel) (2024.02. release)
     * Retrieval Model
       * `Jisu Kim`, `Tak-Sung Heo`, `Minsu Jeong`, `Juhwan Lee`
   <br></br>
